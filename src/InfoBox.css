@@ -1,0 +1,9 @@
+/* InfoBox.css */
+.InfoBox h1 {
+    color: black;
+  }
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
+  
